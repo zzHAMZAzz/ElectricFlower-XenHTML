@@ -1,0 +1,11 @@
+Package: com.hamza.electricflower
+Name: ElectricFlower Widget
+Version: 1.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: Hamza
+Section: Widget
+Description: Electric Flower Widget (from WebGL samples) for XenHTML
+Homepage: http://zzhamzazz.github.io
+Maintainer: Hamza
+
